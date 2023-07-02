@@ -2,18 +2,18 @@ primeiro se você tiver no linux ou mac
 bem o procedimento é o seguinte
 
   1.abra o cmd
-  2.va para o diretorio onde voce baixou os arquivos do github
+  2.va para o diretorio onde voce baixou os arquivos do github ( o padrão é o downloads )
   3.entre na pasta spaceship
   4.digite ./start_linux_mac
 
 já se você estiver no windows
 é o seguinte
 
-  1.entre no diretorio onde você baixou os arquivos do github
+  1.entre no diretorio onde você baixou os arquivos do github ( o padrão é o downloads )
   2.entre no diretorio spaceship
   3.clique duas vezes no start_windows para o executar
 
 e quando o jogo abrir para se mover use as setas
 e para atirar pressione o espaço
 
-mas você so pode atirar um tiro de cada vez
+mas você so pode atirar um tiro de cada vez para ficar mais desafiador
